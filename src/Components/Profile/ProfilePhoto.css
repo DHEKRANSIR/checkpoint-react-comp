@@ -1,0 +1,12 @@
+.upper-container { 
+ height: 100px;
+  background: linear-gradient(to left , #2d002d,#ff0291);
+} 
+.imag-container img{
+  background: white;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 5px;
+  transform: translate(10px,40px); 
+} 
